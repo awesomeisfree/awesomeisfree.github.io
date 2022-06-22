@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trek Martin
-gtfo: test
+gtfo: test2
 
 ---
 ## Welcome to GitHub Pages
