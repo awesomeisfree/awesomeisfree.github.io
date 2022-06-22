@@ -1,9 +1,9 @@
 ---
-title: Landing
+title: Science
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Projects and Pasttimes
 image: assets/images/pic07.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

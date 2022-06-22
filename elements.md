@@ -16,15 +16,18 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Mixing Games and Food with Science</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Panera and Permeability</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Students will examine concepts of porosity, permiability, and capillarity by designing investigations on types of bread; they describe observations in the bread's surface, and make predictions about absorption of honey. Students present their findings and discuss results, and ask critical questions about their models. The lesson finishes up with a Teachback, where students develop their own artifact with which to teach the concept back to the class.
+		</p>
+		<img src="assets/lessons-assets/Lesson1-PPC/PPCVocab.png"/>
 		<ul class="actions">
-			<li><a href="#" class="button special">Video</a></li>
-			<li><a href="#" class="button">Assets</a></li>
+			<!--<li><a href="#" class="button special">Video</a></li>-->
+			<li><a href="assets/lessons-assets/Lesson1-PPC/PorosityPermiability-Panera.docx" class="button special">Lesson Plan</a></li>
+			<li><a href="assets/lessons-assets/Lesson1-PPC/assets.zip" class="button">Assets</a></li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
