@@ -11,6 +11,7 @@ state: NY
 zip_code: 10031
 country: United States of America
 phone: (208) 298-7563
+contact-form-endpoint: https://formspree.io/f/mnqwydkr
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

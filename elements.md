@@ -2,6 +2,7 @@
 layout: page
 title: Lessons
 image: assets/images/pic01.jpg
+description: Examples and Assets
 nav-menu: true
 ---
 

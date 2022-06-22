@@ -9,36 +9,31 @@
 	#banner {
 		@include vendor('align-items', 'center');
 		@include vendor('background-image', 'url("../images/banner.jpg")');
-		@include vendor('border-image', 'url("../images/purple.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
-		background-position: top;
+		background-position: bottom;
 		background-repeat: no-repeat;
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
-		opacity: 0;
+		height: 56vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
-		border-top:none;
-		border-left:none;
-		border-right:none;
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
-			@include vendor('transition-delay', '0.75s');
+			@include vendor('transition-delay', '0.45s');
 			@include vendor('pointer-events', 'none');
 			background-color: _palette(bg);
 			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0;
+			opacity: 0.1;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -100,7 +95,7 @@
 		}
 
 		&.major {
-			height: 75vh;
+			height: 55vh;
 			min-height: 30em;
 			max-height: 50em;
 
