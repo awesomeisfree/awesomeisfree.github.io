@@ -24,3 +24,35 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
+	.row img{
+	margin:auto;
+	display:block;
+	transition:0.75s ease-in-out;
+	}
+	.row img:hover{
+
+  		transform: scale(1.8) translate(0,-50px);
+
+	}
+
+	.elements .inner{
+		padding: 4em 1em 2em 1em!important;
+	}
+	#player{
+		width: 80px;
+	    height: 80px;
+	    right: 10px;
+	    bottom: 10px;
+	    position: fixed;
+	    z-index: 200;
+	}
+	#contact, #footer{
+		background: #242943;
+	}
+	#contact, #footer{
+		border: 30px solid transparent;
+		border-image: url('/assets/images/purple.png') 200 round;
+		border-image-outset: 0.5;
+		border-left: none;
+		border-right: none;
+	}

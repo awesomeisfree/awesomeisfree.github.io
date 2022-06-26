@@ -6,80 +6,12 @@
 
 /* Tiles */
 
-	.fakebordert{
-		border: 30px solid transparent;
-	    border-image: url(../images/purple.png) 30 round;
-	    background-clip: content-box;
-		border-image-repeat: repeat;
-	    border-left:none;
-	    border-right:none;
-	    border-bottom:none;
-	    
-	    width: 100%;
-	    height: 100%;
-	    position: absolute;
-	    left: 0;
-	    top: -1em;
-	    z-index: 100;
-
-
-	}
-	.fakeborderb{
-		border: 30px solid transparent;
-	    border-image: url(../images/purple.png) 30 round;
-	    background-clip: content-box;
-		border-image-repeat: repeat;
-	    border-left:none;
-	    border-right:none;
-	    border-top:none;
-	    
-	    width: 100%;
-	    height: 100%;
-	    position: absolute;
-	    left: 0;
-	    bottom: -1em;
-	    z-index: 100;
-
-
-	}
-	.fakeborderl{
-		border: 30px solid transparent;
-	    border-image: url(../images/purple_vert.png) 30 round;
-	    background-clip: content-box;
-		border-image-repeat: repeat;
-	    border-top:none;
-	    border-bottom:none;
-	    border-right:none;
-	    width: 100%;
-	    height: 100%;
-	    position: absolute;
-	    left: -1em;
-	    top: 0;
-	    z-index: 100;
-
-
-	}
-	.fakeborderr{
-		border: 30px solid transparent;
-	    border-image: url(../images/purple_vert.png) 30 round;
-	    background-clip: content-box;
-		border-image-repeat: repeat;
-	    border-top:none;
-	    border-bottom:none;
-	    border-left:none;
-	    width: 100%;
-	    height: 100%;
-	    position: absolute;
-	    right: -1em;
-	    top: 0;
-	    z-index: 100;
-
-
-	}
+	
 
 	.tiles {
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
+		
 		border-top: 0 !important;
 
 		& + * {
@@ -91,6 +23,8 @@
 		article {
 			@include vendor('align-items', 'center');
 			@include vendor('display', 'flex');
+			@include vendor('border','30px solid transparent');
+			@include vendor('border-image','url("/assets/images/purple.png") 30 round');
 			@include vendor('transition', (
 				'transform 0.25s ease',
 				'opacity 0.25s ease',
@@ -99,6 +33,7 @@
 			));
 			@include padding(4em, 4em);
 			background-position: center;
+			background-origin:border-box;
 			background-repeat: no-repeat;
 			background-size: cover;
 			cursor: default;
@@ -106,7 +41,13 @@
 			max-height: 40em;
 			min-height: 23em;
 			overflow: hidden;
+			border-image-repeat:repeat;
+			border-left:none;
+			border-right:none;
 			position: relative;
+			z-index:1;
+			
+			border-image-outset:0.5;
 			width: 40%;
 			
 
@@ -141,27 +82,34 @@
 
 			&:before {
 				@include vendor('transition', 'opacity 0.5s ease');
-				bottom: 0;
+				top: 30%;
 				content: '';
 				display: block;
-				height: 100%;
+				
+				height: 50%;
 				left: 0;
 				opacity: 0.85;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
+				/*border:30px solid transparent;
+				border-image:url('/assets/images/purple.png') 30 round;*/
+				background-clip:content-box;
+				background-size:auto;
 			}
 
 			&:after {
 				background-color: transparentize(_palette(bg), 0.75);
 				content: '';
 				display: block;
-				height: 100%;
+				height: 50%;
 				left: 0;
 				position: absolute;
-				top: 0;
+				top: 30%;
 				width: 100%;
 				z-index: 1;
+				background-clip:border-box;
+				background-size:contain;
 			}
 
 			&:hover {
@@ -189,19 +137,19 @@
 
 			&:nth-child(6n - 4) {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: _palette(accent2);
 				}
 			}
 
 			&:nth-child(6n - 3) {
 				&:before {
-					background-color: _palette(accent5);
+					background-color: _palette(accent3);
 				}
 			}
 
 			&:nth-child(6n - 2) {
 				&:before {
-					background-color: _palette(accent5);
+					background-color: _palette(accent4);
 				}
 			}
 

@@ -3,7 +3,14 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
+/*window.onSpotifyIframeApiReady = (IFrameAPI) => {
+  let element = document.getElementById('player');
+  let options = {
+      uri: 'spotify:episode:7makk4oTQel546B0PZlDM5'
+    };
+  let callback = (EmbedController) => {};
+  IFrameAPI.createController(element, options, callback);
+};*/
 (function($) {
 
 	skel.breakpoints({
@@ -128,10 +135,24 @@
 			});
 
 		// Scrolly.
-			$('.scrolly').scrolly({
-				offset: function() {
-					return $header.height() - 2;
-				}
+			$('.scrollyHeader').scrolly({
+				
+					offset: function(t) {
+						return $header.height() - 2;
+					}
+				})
+			$('.scrollyContact').click(function(){
+				$("html, body").animate({
+	
+					scrollTop: $("#two").offset().top-$("nav").height()
+				}, 2000, "swing")
+			});
+			$('.scrollyFooter').click(function(){
+	
+				$("html, body").animate({
+
+					scrollTop: $(document).height()-$(window).height()
+				}, 2000, "swing")
 			});
 
 		// Tiles.
@@ -231,7 +252,7 @@
 					$image = $this.find('.image'), $img = $image.find('img');
 
 				// Parallax.
-					$this._parallax(0.275);
+					$this._parallax(0.675);
 
 				// Image.
 					if ($image.length > 0) {

@@ -3,14 +3,11 @@
 {% elsif 'pages' == site.tiles-source %}
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
-<section id="one" class="tiles">
+<section id="one" class="tiles scrollTo">
 
   {% for tile in tiles limit:site.tiles-count %}
-  <a href="{{ tile.url  | relative_url }}"><article >
-    <div class="fakebordert">&nbsp;</div>
-    <div class="fakeborderb">&nbsp;</div>
-    <div class="fakeborderlr">&nbsp;</div>
-    <div class="fakeborderr">&nbsp;</div>
+  <article >
+
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
     </span>
@@ -18,7 +15,7 @@
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
       <p>{{ tile.description }}</p>
     </header>
-  </article></a>
+  </article>
 
   {% endfor %}
 </section>

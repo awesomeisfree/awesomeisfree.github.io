@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Welcome! My name is Trek. I'm a teacher, artist, and maker. If you are interested in contacting me, you can reach me at <a href="mailto:derek.reed.martin@gmail.com">derek.reed.martin@gmail.com</a>. You can also use the contact form below. If this is an employment inquiry, you can see my resume <a href="assets/resume2022T.pdf">here</a>

@@ -2,7 +2,7 @@
 title: Science
 layout: landing
 description: Projects and Pasttimes
-image: assets/images/pic07.jpg
+image: assets/images/pic03.jpg
 nav-menu: true
 ---
 
