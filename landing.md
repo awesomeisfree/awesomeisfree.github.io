@@ -14,7 +14,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{% link assets/images/pic08.jpg %}" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -27,7 +27,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{% link assets/images/pic07.jpg %}" class="image">
 			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -40,7 +40,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{% link assets/images/pic04.jpg %}" class="image">
 			<img src="{% link assets/images/pic04.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -62,7 +62,7 @@ nav-menu: true
 		</header>
 		<p>Welcome! My name is Trek. I'm a teacher, artist, and maker. If you are interested in contacting me, you can reach me at <a href="mailto:derek.reed.martin@gmail.com">derek.reed.martin@gmail.com</a>. You can also use the contact form below. If this is an employment inquiry, you can see my resume <a href="assets/resume2022T.pdf">here</a></p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next scrollyFooter">Get Started</a></li>
+			<li><a href="#" class="button next scrollyFooter">Get Started</a></li>
 		</ul>
 	</div>
 </section>
