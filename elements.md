@@ -161,7 +161,7 @@ nav-menu: true
 		<span style="max-width: 30%;" class="image left"><iframe width="100%" src="https://www.youtube.com/embed/0vLym07UkiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		<span style="max-width: 30%;" class="image right"><iframe width="100%" src="https://www.youtube.com/embed/i4SxjFKOeE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
 		<ul class="actions">
-			<li><a href="#" class="button special">Channel (with more videos)</a></li>
+			<li><a href="https://www.youtube.com/channel/UCmEZg40x6D2KG2HQeSUwYcg" class="button special">Channel (with more videos)</a></li>
 		</ul>
 	</div>
 	<div class="6u 12u$(small)">
