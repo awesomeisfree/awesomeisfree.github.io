@@ -1,0 +1,4 @@
+SystemID NES
+0057	b	u	0	RAM	Speed
+0705	b	u	0	RAM	Speed subpixel
+

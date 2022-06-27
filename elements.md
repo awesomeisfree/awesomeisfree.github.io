@@ -61,20 +61,19 @@ nav-menu: true
 <section id="one">
 	<div class="inner elements">
 		<header class="major">
-			<h1>Lessons</h1>
+			<h1>Lesson Materials, Ideas, and Student Work Examples</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Mixing Games and Food with Science</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Lesson Plans</h2>
+<p>These are some lessons I've taught in my classroom.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Panera and Permeability</h3>
 		<h4>Students will examine concepts of porosity, permiability, and capillarity by designing investigations on types of bread</h4>
-		<p>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, food. It makes use of primary materials, actual freshly baked bread, and then, during an observation segment, has students to make use of make use of all five senses by documenting what they experience using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in every way possible. Finally, students are given a lab template with which to design their own investigation, testing the properties of the bread. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
-		<img height="200px" src="assets/lessons-assets/Lesson1-PPC/WDYS-nontransparent.png"/>
-		<p>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon (this time a digital model) mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
-		<img height="200px" src="assets/lessons-assets/Lesson1-PPC/PPCVocab-nontransparent.png"/>
+		<h5>New York Science Scope and Squence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
+		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/WDYS-nontransparent.png %}" alt="" /></span>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, food. It makes use of primary materials, actual freshly baked bread, and then, during an observation segment, has students to make use of make use of all five senses by documenting what they experience using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in a way that lets them express themselves comfortably. Finally, students are given a lab template with which to design their own investigation, testing the properties of the bread. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
+		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/PPCvocab-nontransparent.png %}" alt="" /></span>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon (this time a digital model) mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
 		<p>
 			Finally, the 'synthesis' stage. This stage is almost entirely student-driven. Simply, students are tasked in groups with teaching what their were just taught through an artifact, a "Teachback." Explicity, they are challenged to teach it to a group a year younger than they are. In groups, they develop either:
 			<ul>
@@ -85,9 +84,8 @@ nav-menu: true
 				<li>an infographic</li>
 				<li>a model</li>
 			</ul>
-			Tools and materials are available in the classroom. In addition, guidance and tutorials on each of the six are included to help encourage students to experiment with new formats. This stage exploits the Generation Effect while incorporating most, if not all, of the constructivism pillars. The Generation Effect informs us that the brain remembers information it itself synthesized far more effectively than information presented to it externally. Additionally, this both establishes a learning-is-fun classroom culture, activates student creativity, and provides opportunities to meet any coincedentally remaining senses students might not yet have used (e.g. kinesthetic).
+			<span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/Teachback-front-nontransparent.png %}" alt="" /></span>Tools and materials are available in the classroom. In addition, guidance and tutorials on each of the six are included to help encourage students to experiment with new formats. This stage exploits the Generation Effect while incorporating most, if not all, of the constructivism pillars. The Generation Effect informs us that the brain remembers information it itself synthesized far more effectively than information presented to it externally. Additionally, this both establishes a learning-is-fun classroom culture, activates student creativity, and provides opportunities to meet any coincedentally remaining senses students might not yet have used (e.g. kinesthetic).
 		</p>
-		<img height="200px" src="assets/lessons-assets/Lesson1-PPC/teachback-front-nontransparent.png"/>
 		<p>There are four assessments:
 			<ul>
 				<li>students are graded on the difference between the language they use during stage one and two (both will go through an observations exercise and direct comparisons are made)</li>
@@ -104,13 +102,12 @@ nav-menu: true
 			<li><a href="assets/lessons-assets/Lesson1-PPC/assets.zip" class="button">Assets</a></li>
 		</ul>
 	</div>
-	<div class="6u 12u$(small)">
-		<h3>Panera and Permeability</h3>
-		<h4>Students will examine concepts of porosity, permiability, and capillarity by designing investigations on types of bread</h4>
-		<p>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, food. It makes use of primary materials, actual freshly baked bread, and then, during an observation segment, has students to make use of make use of all five senses by documenting what they experience using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in every way possible</p>
-		<img height="200px" src="assets/lessons-assets/Lesson1-PPC/WDYS-nontransparent.png"/>
-		<p>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon (this time a digital model) mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
-		<img height="200px" src="assets/lessons-assets/Lesson1-PPC/PPCVocab-nontransparent.png"/>
+	<div class="6u 12u$(small)" >
+		<h3>Riding the River</h3>
+		<h4>Students will examine concepts of river erosion by examining Mario Kart racing physics</h4>
+		<h5>New York Science Scope and Squence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
+		<p><span style="max-width: 30%;" class="image right"><a href="https://www.youtube.com/watch?v=PbkJugm4OGk"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/mk_edited.gif %}" alt="" /></a></span>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, Mario Kart. In Mario Kart, when racers take turns, they racers on the inside of the turn make progress moreso than the racers on the outside, and the students will be exploring this. It makes use of primary materials, a running copy of Mario Kart, and then, during an observation segment, has students document what they saw in the game using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in a way that allows them to express themselves comfortably. Finally, students are given a lab template with which to design their own investigation, testing the properties objects moving in arcs. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
+		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/vocabErosion-nontransparent.png %}" alt="" /></span>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon, a river bend model, mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
 		<p>
 			Finally, the 'synthesis' stage. This stage is almost entirely student-driven. Simply, students are tasked with teaching what their were just taught through an artifact, a "Teachback." Explicity, they are challenged to teach it to a group a year younger than they are. In groups, they develop either:
 			<ul>
@@ -123,7 +120,6 @@ nav-menu: true
 			</ul>
 			Tools and materials are available in the classroom. In addition, guidance and tutorials on each of the six are included to help encourage students to experiment with new formats. This stage abuses the Generation Effect. The brain remembers information it itself synthesized far more effectively than information presented to it externally. Additionally, this both establishes a learning-is-fun classroom culture and meets any coincedentally remaining senses students might not yet have used (e.g. kinesthetic).
 		</p>
-		<img height="200px" src="assets/lessons-assets/Lesson1-PPC/teachback-front-nontransparent.png"/>
 		<p>There are four assessments:
 			<ul>
 				<li>students are graded on the difference between the language they use during stage one and two (both will go through an observations exercise and direct comparisons are made)</li>
@@ -132,397 +128,56 @@ nav-menu: true
 				<li>students are graded on a NGSS </li>
 			</ul>
 		</p>
+		<ul class="actions">
+			<li><a href="assets/lessons-assets/Lesson2-RiverErosion/RiverErosion-MarioKart.docx" class="button special">Lesson Plan</a></li>
+			<li><a href="assets/lessons-assets/Lesson2-RiverErosion/assets.zip" class="button">Assets</a></li>
+		</ul>
+	</div>
+</div>
+<div class="row">
+	<div class="6u 12u$(small)" style="width:100%">
+		<h3>Quest</h3>
+		<h4>Exam prep game that lasts all year</h4>
+		<h5>New York Science Scope and Squence Earth Science Unit 3/NGSS HS-ESS2-5 (flexible)</h5>
+		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson3-LandformsReview/desert.png %}" alt="" /></span>This is a game students play before each major exam, for reviewing key unit topics. Students take on roles, and cooperate to solve Earth science questions in an elaborate narrative. They use powers to elicit help, support friends, and backstab enemies and the whole structure supports a myriad of ways to participate. In addition, there is continuity across review sessions throughout the year, and a larger story that operates as a metaphor for self growth across the year.</p>
+		<p><span style="max-width: 15%;" class="image left"><img src="{% link assets/lessons-assets/Lesson3-LandformsReview/mara.png %}" alt="" /></span>As mentioned, each student gets to pick a specific role. These were designed with diversity and inclusion in mind, and have representations according to my high needs classroom, including hispanic, black, and LGBTQ presenting characters. Characters also reflect a diversity through their mechanics, enabling students to participate in ways they specifically want to. Some characters allow students to get up and move around, others encourage sociability, and some have more thoughtful personalities. This is a ever developing game and one of the ways it continuously grows is through adding in more characters cards to reflect new representations of my students' identities.<span style="max-width: 15%;" class="image right"><img src="{% link assets/lessons-assets/Lesson3-LandformsReview/hespa.png %}" alt="" /></span>
+		While designing this game, my classroom struggled to collaborate; my students siloed or disengaged during any kind of group content. This game has a design goal of improving collaboration in my classroom; it provides heavy incentive for engaging not only in the questions but with fellow players in new ways. For example, it may reward a player for betraying their friends and reward them for making new ones.</p>
 		<p>
-			Recipes are included for no-baking soda, normal baking soda, and extra baking soda bread, to create a gradient of porosity students will examine and test. There is also instruction for creating channels using laminated butter, for another gradient varying permeability.
+			Students start out at the beginning of the year in groups of four, that may or may not change throughout the year according to the story and events. Materials include a Pear deck set of slides that reflect the narrative, high resolution character cards for printing and sleeving, dice, and tokens. Exact details as to the rules and how to play are also included. There is a special slide in the slide deck, called the Save Slide, where students record their status and progress through the story, so they can pick it up again next time.<!--<span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson3-LandformsReview/save-nonstransparent.png %}" alt="" /></span>-->
 		</p>
 		<ul class="actions">
-			<li><a href="assets/lessons-assets/Lesson1-PPC/PorosityPermiability-Panera.docx" class="button special">Lesson Plan</a></li>
-			<li><a href="assets/lessons-assets/Lesson1-PPC/assets.zip" class="button">Assets</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Mario Kart and River Erosion</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-		<ul class="actions">
-			<li><a href="#" class="button special">Video</a></li>
-			<li><a href="#" class="button">Assets</a></li>
-		</ul>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Quest ✊</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-		<ul class="actions">
-			<li><a href="#" class="button special">Video</a></li>
-			<li><a href="#" class="button">Assets</a></li>
+			<li><a href="https://www.youtube.com/watch?v=3l0YJxzJBHM" class="button">Example of Play</a></li>
+			<li><a href="assets/lessons-assets/Lesson3-LandformsReview/Instructions.gdoc" class="button special">Lesson Plan</a></li>
+			<li><a href="assets/lessons-assets/Lesson3-LandformsReview/assets.zip" class="button">Assets</a></li>
 		</ul>
 	</div>
 </div>
-
-<hr class="major" />
-
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
-<!-- Lists -->
-<h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
+		<h3>Video Examples</h3>
+		<p>Here are some examples of me teaching in a classroom</p>
+		<span style="max-width: 30%;" class="image left"><iframe width="100%"  src="https://www.youtube.com/embed/kSpePiVMPwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+		<span style="max-width: 30%;" class="image right"><iframe width="100%" src="https://www.youtube.com/embed/UcSQnnyI95E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+		<span style="max-width: 30%;" class="image left"><iframe width="100%" src="https://www.youtube.com/embed/0vLym07UkiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+		<span style="max-width: 30%;" class="image right"><iframe width="100%" src="https://www.youtube.com/embed/i4SxjFKOeE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+		<ul class="actions">
+			<li><a href="#" class="button special">Channel (with more videos)</a></li>
 		</ul>
 	</div>
 	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
+		<h3>Student Work Samples</h3>
+		<p>Here are some examples of graded work</p>
+		<span style="max-width: 40%;" class="image left"><img src="{% link assets/lessons-assets/StudentWork/2-11 (1).png %}" alt="" /></span>
+		<span style="max-width: 40%;" class="image right"><img src="{% link assets/lessons-assets/StudentWork/2-18 (4-d).png %}" alt="" /></span>
+		<span style="max-width: 40%;" class="image left"><img src="{% link assets/lessons-assets/StudentWork/5-2(18).png %}" alt="" /></span>
+		<span style="max-width: 40%;" class="image right"><img src="{% link assets/lessons-assets/StudentWork/5-2(9).png %}" alt="" /></span>
+		<ul class="actions">
+			<li><a href="assets/lessons-assets/StudentWork/zipped.zip" class="button special">More Samples</a></li>
 		</ul>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-</div>
-<div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
-
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
-
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-	</div>
-</div>
-
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
-
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
 </div>
 </div>
 
-</div>
 </section>
 
 </div>
