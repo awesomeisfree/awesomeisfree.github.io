@@ -72,41 +72,17 @@ nav-menu: true
 		<h3>Kinematics of Super Mario World</h3>
 		<h4>Students will examine concepts of position, velocity, and acceleration by designing investigations on a Super Mario World simulation</h4>
 		<h5>New York Science Physical Setting Standard 4 (Regents)</h5>
-		<p><span style="max-width: 30%;" class="image right"><iframe width="200" height="200" src="https://www.youtube.com/embed/qQjiPr5Sl5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></span>Students are presented with a series of slow-motion videos in which Super Peach attempts to make some kind of jump. Students are prompted to investigate the game engine, and design an investigation to gather data and using evidence, make a case for 'making it' or 'not making it'. Lesson is making use of inquiry based design; students will  provide models, collect and analyze data, and communicate their findings to the class. Students are assessed on model formation, revision, data collection procedure, data analaysis, and the finally conclusion by means of a lab notebook</p>
+		<p><span style="max-width: 30%;" class="image right"><iframe width="150" height="150" src="https://www.youtube.com/embed/qQjiPr5Sl5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></span>Students are presented with a series of slow-motion videos in which Super Peach attempts to make some kind of jump. Students are prompted to investigate the game engine, and design an investigation to gather data and using evidence, make a case for 'making it' or 'not making it'. Lesson is making use of inquiry based design; students will  provide models, collect and analyze data, and communicate their findings to the class. Students are assessed on model formation, revision, data collection procedure, data analaysis, and the finally conclusion by means of a lab notebook</p>
 		
 		
 		
 	</div>
 	<div class="6u 12u$(small)" >
-		<h3>Riding the River</h3>
-		<h4>Students will examine concepts of river erosion by examining Mario Kart racing physics</h4>
-		<h5>New York Science Scope and Squence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
-		<p><span style="max-width: 30%;" class="image right"><a href="https://www.youtube.com/watch?v=PbkJugm4OGk"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/mk_edited.gif %}" alt="" /></a></span>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, Mario Kart. In Mario Kart, when racers take turns, they racers on the inside of the turn make progress moreso than the racers on the outside, and the students will be exploring this. It makes use of primary materials, a running copy of Mario Kart, and then, during an observation segment, has students document what they saw in the game using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in a way that allows them to express themselves comfortably. Finally, students are given a lab template with which to design their own investigation, testing the properties objects moving in arcs. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
-		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/vocabErosion-nontransparent.png %}" alt="" /></span>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon, a river bend model, mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
-		<p>
-			Finally, the 'synthesis' stage. This stage is almost entirely student-driven. Simply, students are tasked with teaching what their were just taught through an artifact, a "Teachback." Explicity, they are challenged to teach it to a group a year younger than they are. In groups, they develop either:
-			<ul>
-				<li>a book</li>
-				<li>a video game</li>
-				<li>a short movie</li>
-				<li>a song</li>
-				<li>an infographic</li>
-				<li>a model</li>
-			</ul>
-			Tools and materials are available in the classroom. In addition, guidance and tutorials on each of the six are included to help encourage students to experiment with new formats. This stage abuses the Generation Effect. The brain remembers information it itself synthesized far more effectively than information presented to it externally. Additionally, this both establishes a learning-is-fun classroom culture and meets any coincedentally remaining senses students might not yet have used (e.g. kinesthetic).
-		</p>
-		<p>There are four assessments:
-			<ul>
-				<li>students are graded on the difference between the language they use during stage one and two (both will go through an observations exercise and direct comparisons are made)</li>
-				<li>students are graded on a NGSS and Regents Scope and Sequence derived rubric for their stage one investigation</li>
-				<li>students are graded on a NGSS and Regents Scope and Sequence derived rubric for their stage one investigation</li>
-				<li>students are graded on a NGSS </li>
-			</ul>
-		</p>
-		<ul class="actions">
-			<li><a href="assets/lessons-assets/Lesson2-RiverErosion/RiverErosion-MarioKart.docx" class="button special">Lesson Plan</a></li>
-			<li><a href="assets/lessons-assets/Lesson2-RiverErosion/assets.zip" class="button">Assets</a></li>
-		</ul>
+		<h3>10 Mile Meter</h3>
+		<h4>Students will explore vehicle design from mechanical and kinematic perspectives while designing solutions to a challenge</h4>
+		<h5>NGSS HS-ETS1-2, HS-ETS1-3.</h5>
+		<p><span style="max-width: 30%;" class="image right"><iframe width="150" height="150" src="https://www.youtube.com/embed/Aa0Rr_BITbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></span>
+			Students are challenged to develop a vehicle which can travel 1 meter, under the stipulation that they are not given any motors, only servos that rotate up to 180 degrees. They work in groups to research servos, mechanics of animal and vehicle motion, and coding (arduino), to develop a final product that can travel the meter. They test their device, make revisions and recommendations based off of its performance and present to their community their findings. Students are assessed on their ability to present a unified project report, detailing their research, improvisations, consequences, and ultimate result.
 	</div>
 </div>
 <div class="row">
@@ -114,10 +90,10 @@ nav-menu: true
 		<h3>Panera and Permeability</h3>
 		<h4>Students will examine concepts of porosity, permiability, and capillarity by designing investigations on types of bread</h4>
 		<h5>New York Science Scope and Squence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
-		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/WDYS-nontransparent.png %}" alt="" /></span>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, food. It makes use of primary materials, actual freshly baked bread, and then, during an observation segment, has students to make use of make use of all five senses by documenting what they experience using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in a way that lets them express themselves comfortably. Finally, students are given a lab template with which to design their own investigation, testing the properties of the bread. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
-		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/PPCvocab-nontransparent.png %}" alt="" /></span>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon (this time a digital model) mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
-		<p>
-			Finally, the 'synthesis' stage. This stage is almost entirely student-driven. Simply, students are tasked in groups with teaching what their were just taught through an artifact, a "Teachback." Explicity, they are challenged to teach it to a group a year younger than they are. In groups, they develop either:
+		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/WDYS-nontransparent.png %}" alt="" /></span>Students make observations about a variety of different loaves of bread. They document them, with special attention to the languages they use. Students use their observations to design an investigation into 'soup absorption'--which type of bread and which qualities makes for the most soup (or water) absorbing bread</p>
+		<span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/PPCvocab-nontransparent.png %}" alt="" /></span>students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon (this time a digital model) mechanically similar to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. Students bridge the gap between the two, comparing the vocabulary they used in the first phase to the vocabulary usere in the digital model.</p>
+		
+			Finally, students are tasked in groups with teaching what their were just taught through an artifact, a "Teachback." They are informed to make it accessible to a group younger than they are. In groups, they develop either:
 			<ul>
 				<li>a book</li>
 				<li>a video game</li>
@@ -126,16 +102,9 @@ nav-menu: true
 				<li>an infographic</li>
 				<li>a model</li>
 			</ul>
-			<span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/Teachback-front-nontransparent.png %}" alt="" /></span>Tools and materials are available in the classroom. In addition, guidance and tutorials on each of the six are included to help encourage students to experiment with new formats. This stage exploits the Generation Effect while incorporating most, if not all, of the constructivism pillars. The Generation Effect informs us that the brain remembers information it itself synthesized far more effectively than information presented to it externally. Additionally, this both establishes a learning-is-fun classroom culture, activates student creativity, and provides opportunities to meet any coincedentally remaining senses students might not yet have used (e.g. kinesthetic).
+			<span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/Teachback-front-nontransparent.png %}" alt="" /></span>
 		</p>
-		<p>There are four assessments:
-			<ul>
-				<li>students are graded on the difference between the language they use during stage one and two (both will go through an observations exercise and direct comparisons are made)</li>
-				<li>students are graded on a NGSS and Regents Scope and Sequence derived rubric for their stage one investigation</li>
-				<li>students are graded on a NGSS and Regents Scope and Sequence derived rubric for their stage one investigation</li>
-				<li>students are graded on a NGSS </li>
-			</ul>
-		</p>
+	
 		<p>
 			Recipes are included for no-baking soda, normal baking soda, and extra baking soda bread, to create a gradient of porosity students will examine and test. There is also instruction for creating channels using laminated butter, for another gradient varying permeability.
 		</p>
@@ -148,10 +117,8 @@ nav-menu: true
 		<h3>Riding the River</h3>
 		<h4>Students will examine concepts of river erosion by examining Mario Kart racing physics</h4>
 		<h5>New York Science Scope and Squence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
-		<p><span style="max-width: 30%;" class="image right"><a href="https://www.youtube.com/watch?v=PbkJugm4OGk"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/mk_edited.gif %}" alt="" /></a></span>There are roughly three stages to this lesson. I call the first 'discovery;' In discovery, students observe an everday phenomenon, one very specifically selected to be fun and connected to their every day culture--in this lesson's case, Mario Kart. In Mario Kart, when racers take turns, they racers on the inside of the turn make progress moreso than the racers on the outside, and the students will be exploring this. It makes use of primary materials, a running copy of Mario Kart, and then, during an observation segment, has students document what they saw in the game using what they already know. During discovery, I meanwhile, am collecting their observations and listening, building my own database of student language. There are two major goals of discovery: 1) to collect data on student language when experiencing the phenomenon, and 2) engage students in a way that allows them to express themselves comfortably. Finally, students are given a lab template with which to design their own investigation, testing the properties objects moving in arcs. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
-		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/vocabErosion-nontransparent.png %}" alt="" /></span>In stage two, dubbed 'learning,' students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon, a river bend model, mechanically similary to the first, but this time at a higher, more abstract, more 'academic' level making use of science vocabulary. This phase is otherwise structurally similar to discovery-in fact, that is a goal of this phase. I hope that by presenting two phenomenon, one academic, and one everyday using the same format, students will bridge the gap between the two, facilitating a growth of student science identity.</p>
-		<p>
-			Finally, the 'synthesis' stage. This stage is almost entirely student-driven. Simply, students are tasked with teaching what their were just taught through an artifact, a "Teachback." Explicity, they are challenged to teach it to a group a year younger than they are. In groups, they develop either:
+		<p><span style="max-width: 30%;" class="image right"><a href="https://www.youtube.com/watch?v=PbkJugm4OGk"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/mk_edited.gif %}" alt="" /></a></span>In Mario Kart, when racers take turns around the track, the racers on the inside of the turn make progress moreso than the racers on the outside (grounding phenomenon), and the students will be exploring this. It makes use of primary materials, a running copy of Mario Kart, and then, during an observation segment, has students document what they saw in the game using what they already know, with special attention to the language used. Students are given a lab template with which to design their own investigation, testing the properties objects moving in arcs. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
+		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/vocabErosion-nontransparent.png %}" alt="" /></span>Students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon, a river bend model, mechanically similar to the first, but this time using more 'academic' science vocabulary. Students bridge the gap between the two, comparing the vocabulary they used in the first and second phases.Finally, students are tasked in groups with teaching what their were just taught through an artifact, a "Teachback." They are informed to make it accessible to a group younger than they are. In groups, they develop either:
 			<ul>
 				<li>a book</li>
 				<li>a video game</li>
@@ -160,16 +127,9 @@ nav-menu: true
 				<li>an infographic</li>
 				<li>a model</li>
 			</ul>
-			Tools and materials are available in the classroom. In addition, guidance and tutorials on each of the six are included to help encourage students to experiment with new formats. This stage abuses the Generation Effect. The brain remembers information it itself synthesized far more effectively than information presented to it externally. Additionally, this both establishes a learning-is-fun classroom culture and meets any coincedentally remaining senses students might not yet have used (e.g. kinesthetic).
+			<span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson1-PPC/Teachback-front-nontransparent.png %}" alt="" /></span>
 		</p>
-		<p>There are four assessments:
-			<ul>
-				<li>students are graded on the difference between the language they use during stage one and two (both will go through an observations exercise and direct comparisons are made)</li>
-				<li>students are graded on a NGSS and Regents Scope and Sequence derived rubric for their stage one investigation</li>
-				<li>students are graded on a NGSS and Regents Scope and Sequence derived rubric for their stage one investigation</li>
-				<li>students are graded on a NGSS </li>
-			</ul>
-		</p>
+		
 		<ul class="actions">
 			<li><a href="assets/lessons-assets/Lesson2-RiverErosion/RiverErosion-MarioKart.docx" class="button special">Lesson Plan</a></li>
 			<li><a href="assets/lessons-assets/Lesson2-RiverErosion/assets.zip" class="button">Assets</a></li>
