@@ -83,6 +83,7 @@ nav-menu: true
 		<h5>NGSS HS-ETS1-2, HS-ETS1-3.</h5>
 		<p><span style="max-width: 30%;" class="image right"><iframe width="150" height="150" src="https://www.youtube.com/embed/Aa0Rr_BITbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></span>
 			Students are challenged to develop a vehicle which can travel 1 meter, under the stipulation that they are not given any motors, only servos that rotate up to 180 degrees. They work in groups to research servos, mechanics of animal and vehicle motion, and coding (arduino), to develop a final product that can travel the meter. They test their device, make revisions and recommendations based off of its performance and present to their community their findings. Students are assessed on their ability to present a unified project report, detailing their research, improvisations, consequences, and ultimate result.
+		</p>
 	</div>
 </div>
 <div class="row">
@@ -116,7 +117,7 @@ nav-menu: true
 	<div class="6u 12u$(small)" >
 		<h3>Riding the River</h3>
 		<h4>Students will examine concepts of river erosion by examining Mario Kart racing physics</h4>
-		<h5>New York Science Scope and Squence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
+		<h5>New York Science Scope and Sequence Earth Science Unit 4/NGSS HS-ESS2-5</h5>
 		<p><span style="max-width: 30%;" class="image right"><a href="https://www.youtube.com/watch?v=PbkJugm4OGk"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/mk_edited.gif %}" alt="" /></a></span>In Mario Kart, when racers take turns around the track, the racers on the inside of the turn make progress moreso than the racers on the outside (grounding phenomenon), and the students will be exploring this. It makes use of primary materials, a running copy of Mario Kart, and then, during an observation segment, has students document what they saw in the game using what they already know, with special attention to the language used. Students are given a lab template with which to design their own investigation, testing the properties objects moving in arcs. The template and rubric (which they are also given) guides them naturally to develop along Argument Driven Inquiry lines</p>
 		<p><span style="max-width: 30%;" class="image right"><img src="{% link assets/lessons-assets/Lesson2-RiverErosion/vocabErosion-nontransparent.png %}" alt="" /></span>Students are finally given the academic vocabulary necessary to describe the phenomenon. They are given a second phenomenon, a river bend model, mechanically similar to the first, but this time using more 'academic' science vocabulary. Students bridge the gap between the two, comparing the vocabulary they used in the first and second phases.Finally, students are tasked in groups with teaching what their were just taught through an artifact, a "Teachback." They are informed to make it accessible to a group younger than they are. In groups, they develop either:
 			<ul>
